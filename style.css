@@ -1,0 +1,22 @@
+body {
+  background: url(https://klike.net/uploads/posts/2020-09/1600242017_1.jpg)
+    center / cover fixed;
+  margin: 0;
+}
+header {
+  height: 200px;
+  opacity: 1;
+  margin: 10px;
+}
+.menu-item {
+  width: 200px;
+  height: 150px;
+  box-shadow: 5px 5px 10px white, -5px -5px 5px white;
+  border-radius: 20px;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+}
